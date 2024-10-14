@@ -17,9 +17,8 @@
   <h3 style="color: #3F51B5;">🔭 What I'm Currently Working On</h3>
   <ul>
     <li>🌟 <strong>UI/UX and Graphic Designer @ S-sense</strong></li>
-    <li>🚗 Building an application to help users store car parking locations.</li>
     <li>📈 Enhancing the <strong>S-sense</strong> app user journey.</li>
-    <li>🚀 Participating in <strong>NASA Space Apps Challenge</strong> to tackle real-world problems.</li>
+    <li>🚀 Participating in <strong>Hackathons</strong> to tackle real-world problems.</li>
   </ul>
 
   ---
