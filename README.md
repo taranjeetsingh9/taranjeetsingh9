@@ -1,46 +1,12 @@
-<style>
-    body {
-        background-color: black; 
-        color: white; 
-        font-family: Arial, sans-serif;
-    }
+<!-- Use a banner image that gives a glass-like feel -->
+![Banner](https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D)
 
-    .banner {
-        position: relative; 
-        height: 80px; 
-        overflow: hidden;
-    }
-
-    .banner img {
-        width: 100%; 
-        height: auto; 
-        object-fit: cover;
-    }
-
-    .banner-text {
-        position: absolute; 
-        top: 50%; 
-        left: 50%; 
-        transform: translate(-50%, -50%); 
-        background: rgba(0, 0, 0, 0.5); 
-        border-radius: 10px; 
-        padding: 10px; 
-        color: white; 
-        text-align: center; 
-        backdrop-filter: blur(10px); /* This may not work on GitHub */
-    }
-</style>
+<div style="background-color: rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px);">
 
 ## Hi there 👋 I'm Taranjeet Singh!
 
-<!-- Banner -->
-<div class="banner">
-    <img src="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D" alt="Moon Banner" />
-    <div class="banner-text">
-        <h1 style="font-size: 20px; margin: 0;">Welcome to My GitHub!</h1>
-        <h3 style="font-size: 14px; margin: 0;">A passionate Full Stack Developer</h3>
-    </div>
-</div>
+Welcome to My GitHub!  
+A passionate Full Stack Developer.
 
 ---
 
@@ -115,3 +81,5 @@ I'm a passionate **Full Stack Developer**, **UI/UX Designer**, and **Technology 
 
 ### ⚡ Fun Fact:
 I love to create immersive digital experiences and push boundaries in tech!
+
+</div>
