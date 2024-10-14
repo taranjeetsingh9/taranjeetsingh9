@@ -1,7 +1,7 @@
 <!-- Use a banner image that gives a glass-like feel -->
 ![Banner](https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D)
 
-<div style="background-color: rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px);">
+<div style="background-color: rgba(255, 255, 255); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px);">
 
 ## Hi there 👋 I'm Taranjeet Singh!
 
