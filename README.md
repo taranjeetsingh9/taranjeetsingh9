@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/122409989?s=400&u=580271eb5c7670ac25574b9a5afefb6e4a6c7e81&v=4" style="height: 500px; object-fit: cover; width: 100%;"/>
+<img src="https://avatars.githubusercontent.com/u/122409989?s=400&u=580271eb5c7670ac25574b9a5afefb6e4a6c7e81&v=4" style="height: 700px; object-fit: cover; width: 100%;"/>
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: black; border: 1px solid rgba(0, 0, 0, 0.2);">
   <h2>Hi there 👋 I'm Taranjeet Singh!</h2>
