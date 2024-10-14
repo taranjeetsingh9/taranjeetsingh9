@@ -1,9 +1,42 @@
+<style>
+    body {
+        background-color: black; 
+        color: white; 
+        font-family: Arial, sans-serif;
+    }
+
+    .banner {
+        position: relative; 
+        height: 80px; 
+        overflow: hidden;
+    }
+
+    .banner img {
+        width: 100%; 
+        height: auto; 
+        object-fit: cover;
+    }
+
+    .banner-text {
+        position: absolute; 
+        top: 50%; 
+        left: 50%; 
+        transform: translate(-50%, -50%); 
+        background: rgba(0, 0, 0, 0.5); 
+        border-radius: 10px; 
+        padding: 10px; 
+        color: white; 
+        text-align: center; 
+        backdrop-filter: blur(10px); /* This may not work on GitHub */
+    }
+</style>
+
 ## Hi there 👋 I'm Taranjeet Singh!
 
 <!-- Banner -->
-<div style="position: relative; height: 120px; overflow: hidden;">
-    <img src="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D" alt="Moon Banner" style="width: 100%; height: auto; object-fit: cover;"/>
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); border-radius: 10px; padding: 10px; color: white; text-align: center; backdrop-filter: blur(8px);">
+<div class="banner">
+    <img src="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D" alt="Moon Banner" />
+    <div class="banner-text">
         <h1 style="font-size: 20px; margin: 0;">Welcome to My GitHub!</h1>
         <h3 style="font-size: 14px; margin: 0;">A passionate Full Stack Developer</h3>
     </div>
