@@ -1,7 +1,15 @@
 ## Hi there 👋 I'm Taranjeet Singh!
 
 <!-- Banner -->
-![Moon Banner](https://images.unsplash.com/photo-1515311320503-6e3d309537b4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vb258ZW58MHx8MHx8fDA%3D)
+<div style="position: relative; height: 200px; overflow: hidden;">
+    <img src="https://images.unsplash.com/photo-1515311320503-6e3d309537b4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vb258ZW58MHx8MHx8fDA%3D" alt="Moon Banner" style="width: 100%; height: auto; object-fit: cover;"/>
+    <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+        <h1>Welcome to My GitHub!</h1>
+        <h3>A passionate Full Stack Developer</h3>
+    </div>
+</div>
+
+---
 
 I'm a passionate **Full Stack Developer**, **UI/UX Designer**, and **Technology Enthusiast** working on building scalable applications and refining seamless user experiences. I am currently exploring Machine Learning, Cloud Computing, and more!
 
@@ -74,14 +82,3 @@ I'm a passionate **Full Stack Developer**, **UI/UX Designer**, and **Technology 
 
 ### ⚡ Fun Fact:
 I love to create immersive digital experiences and push boundaries in tech!
-
----
-
-<!-- Styling -->
-<style>
-  body {
-    background-image: url('https://images.unsplash.com/photo-1515311320503-6e3d309537b4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vb258ZW58MHx8MHx8fDA%3D');
-    background-size: cover;
-    color: #c9d1d9; /* Adjusted text color for better readability */
-  }
-</style>
