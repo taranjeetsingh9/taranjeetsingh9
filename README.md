@@ -1,6 +1,6 @@
-![Banner](https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D)
+<img src="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D" style="height: 40px; object-fit: cover; width: 100%;"/>
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: white; border: 1px solid rgba(255, 255, 255, 0.2);">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: black; border: 1px solid rgba(0, 0, 0, 0.2);">
   <h2>Hi there 👋 I'm Taranjeet Singh!</h2>
 
   <p>Welcome to My GitHub!  
@@ -79,8 +79,8 @@
 
   <h3>📫 How to Reach Me</h3>
   <ul>
-    <li><a href="https://www.linkedin.com/in/taranjeetsinghtechexpert" style="color: white;">LinkedIn</a></li>
-    <li>Email: <a href="mailto:sin12506@sheridancolllege.ca" style="color: white;">sin12506@sheridancolllege.ca</a></li>
+    <li><a href="https://www.linkedin.com/in/taranjeetsinghtechexpert" style="color: black;">LinkedIn</a></li>
+    <li>Email: <a href="mailto:sin12506@sheridancolllege.ca" style="color: black;">sin12506@sheridancolllege.ca</a></li>
   </ul>
 
   ---
