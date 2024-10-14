@@ -4,10 +4,6 @@
   <p>Welcome to My GitHub!  
   A passionate <strong style="color: #2196F3;">Full Stack Developer</strong>.</p>
 
-  <div style="display: flex; justify-content: center;">
-    <img src="https://avatars.githubusercontent.com/u/122409989?s=400&u=580271eb5c7670ac25574b9a5afefb6e4a6c7e81&v=4" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/>
-  </div>
-
   ---
 
   <p>I'm a passionate <strong style="color: #FF5722;">Full Stack Developer</strong>, <strong style="color: #4CAF50;">UI/UX Designer</strong>, and <strong style="color: #2196F3;">Technology Enthusiast</strong> working on building scalable applications and refining seamless user experiences. I am currently exploring <strong style="color: #FFEB3B;">Machine Learning</strong>, <strong style="color: #FFEB3B;">Cloud Computing</strong>, and more!</p>
