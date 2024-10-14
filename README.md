@@ -74,3 +74,14 @@ I'm a passionate **Full Stack Developer**, **UI/UX Designer**, and **Technology 
 
 ### ⚡ Fun Fact:
 I love to create immersive digital experiences and push boundaries in tech!
+
+---
+
+<!-- Styling -->
+<style>
+  body {
+    background-image: url('https://images.unsplash.com/photo-1515311320503-6e3d309537b4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vb258ZW58MHx8MHx8fDA%3D');
+    background-size: cover;
+    color: #c9d1d9; /* Adjusted text color for better readability */
+  }
+</style>
