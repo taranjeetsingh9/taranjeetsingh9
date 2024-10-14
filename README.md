@@ -1,5 +1,6 @@
-<div style="background-color: rgba(0, 0, 0, 0.7); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: white;">
-  ![#1D1F21](https://placehold.co/15x15/1D1F21/1D1F21.png) `#1D1F21`
+![Banner](https://images.unsplash.com/photo-1490814525860-594e82bfd34a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vb258ZW58MHx8MHx8fDA%3D)
+
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: white; border: 1px solid rgba(255, 255, 255, 0.2);">
   <h2>Hi there 👋 I'm Taranjeet Singh!</h2>
 
   <p>Welcome to My GitHub!  
@@ -25,34 +26,34 @@
 
   <h4>Programming Languages:</h4>
   <div>
-      ![#306998](https://placehold.co/15x15/306998/306998.png) `#306998`
-      ![#A0522D](https://placehold.co/15x15/A0522D/A0522D.png) `#A0522D`
-      ![#F7DF1E](https://placehold.co/15x15/F7DF1E/F7DF1E.png) `#F7DF1E`
-      ![#ED8B00](https://placehold.co/15x15/ED8B00/ED8B00.png) `#ED8B00`
-      ![#777BB4](https://placehold.co/15x15/777BB4/777BB4.png) `#777BB4`
+      <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
   </div>
 
   <h4>Web Development:</h4>
   <div>
-      ![#E34F26](https://placehold.co/15x15/E34F26/E34F26.png) `#E34F26`
-      ![#1572B6](https://placehold.co/15x15/1572B6/1572B6.png) `#1572B6`
-      ![#DD0031](https://placehold.co/15x15/DD0031/DD0031.png) `#DD0031`
-      ![#20232A](https://placehold.co/15x15/20232A/20232A.png) `#20232A`
-      ![#339933](https://placehold.co/15x15/339933/339933.png) `#339933`
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
   </div>
 
   <h4>Cloud & Infrastructure:</h4>
   <div>
-      ![#FF9900](https://placehold.co/15x15/FF9900/FF9900.png) `#FF9900`
-      ![#4285F4](https://placehold.co/15x15/4285F4/4285F4.png) `#4285F4`
-      ![#0089D6](https://placehold.co/15x15/0089D6/0089D6.png) `#0089D6`
-      ![#039BE5](https://placehold.co/15x15/039BE5/039BE5.png) `#039BE5`
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+      <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge"/>
   </div>
 
   <h4>AI & Machine Learning:</h4>
   <div>
-      ![#2C2D72](https://placehold.co/15x15/2C2D72/2C2D72.png) `#2C2D72`
-      ![#0077B5](https://placehold.co/15x15/0077B5/0077B5.png) `#0077B5`
+      <img src="https://img.shields.io/badge/Machine%20Learning-%232C2D72.svg?style=for-the-badge" alt="Machine Learning Badge"/>
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230077B5.svg?style=for-the-badge" alt="AI Badge"/>
   </div>
 
   ---
