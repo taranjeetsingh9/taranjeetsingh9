@@ -6,6 +6,11 @@
   <p>Welcome to My GitHub!  
   A passionate <strong>Full Stack Developer</strong>.</p>
 
+  <div style="display: flex; justify-content: center;">
+  <img src="https://avatars.githubusercontent.com/u/122409989?s=400&u=580271eb5c7670ac25574b9a5afefb6e4a6c7e81&v=4" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/>
+</div>
+
+
   ---
 
   <p>I'm a passionate <strong>Full Stack Developer</strong>, <strong>UI/UX Designer</strong>, and <strong>Technology Enthusiast</strong> working on building scalable applications and refining seamless user experiences. I am currently exploring Machine Learning, Cloud Computing, and more!</p>
