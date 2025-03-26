@@ -13,7 +13,7 @@
   <h3 style="color: #3F51B5;">🔭 What I'm Currently Working On</h3>
   <ul>
     
-    <li>📈 Enhancing the <strong>S-sense</strong> app user journey.</li>
+<li> Learning DSA , Machine Learning / AI & Python </li>
     <li>🚀 Participating in <strong>Hackathons</strong> to tackle real-world problems.</li>
   </ul>
 
