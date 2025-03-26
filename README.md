@@ -17,8 +17,8 @@
     <li>🚀 Participating in <strong>Hackathons</strong> to tackle real-world problems.</li>
   </ul>
 
-  ---
-    <h3 style="color: #3F51B5;">🔭 Past CO-OP Experiences</h3>
+  --- 
+  <h3 style="color: #3F51B5;">🔭 Past CO-OP Experiences </h3>
   <ul>
     <li>🌟 <strong>Incoming Junior Mainframe Developer @BMO</strong> </li>
      <li>🌟 <strong>UI/UX and Graphic Designer @ S-sense</strong></li>
